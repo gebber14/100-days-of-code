@@ -56,3 +56,31 @@ Khan AP Computer Science.  Spent a good deal of time on this today.
 https://www.freecodecamp.org/learn/
 https://www.khanacademy.org/computing/ap-computer-science-principles/
 https://thegreatsync.com/posts/
+
+### Day 5: October 3, 2022 
+
+**Today's Progress**: 
+FreeCodeCamp: Responsive Web Design.   
+Kylo's stuff.  Spent a good amount of time on this today
+
+
+**Thoughts:** Went ok, had to chop it up during the school day.  Wish I could have gotten to more, but oh well.  Finished Kylo at Gideon Welles Pub
+
+**Link to work:**
+https://www.freecodecamp.org/learn/
+https://thegreatsync.com/posts/
+
+### Day 6-7: October 4-5 , 2022 
+
+**Today's Progress**: 
+FreeCodeCamp: Responsive Web Design.   Finished the marker thing.
+Spent a lot of time digging into the algorithm.codingdojo stuff.  Video, plus some pretty gnarly function asssignment stuff.  Not quite getting it yet?
+
+
+**Thoughts:** I'll get there!
+
+**Link to work:**
+https://www.freecodecamp.org/learn/
+https://www.khanacademy.org/computing/ap-computer-science-principles/
+https://thegreatsync.com/posts/
+
