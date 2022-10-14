@@ -90,19 +90,32 @@ Day 9: Friday, October 7, 2022:
 
 
 
-### Day 10: October 13 , 2022 
+### Day 10: Thursday, October 13 , 2022 
 
 **Today's Progress**: 
 FreeCodeCamp: Responsive Web Design.   Finished the marker thing.
-Spent a lot of time digging into the algorithm.codingdojo stuff.  Video, plus some pretty gnarly function asssignment stuff.  Not quite getting it yet?
+Spent a lot of time digging into the algorithm.codingdojo stuff.  
 
 
 **Thoughts:** I'll get there!
 
 **Link to work:**
 https://www.freecodecamp.org/learn/
+https://algorithm.codingdojo.com/challenge
+
+### Day 11: Friday, October 14 , 2022 
+
+**Today's Progress**: 
+FreeCodeCamp: Javascript.  Got stuck on the the reverse a string exercise, even though I've done it before.
+Spent a lot of time digging into the algorithm.codingdojo stuff.  Finished the Digital Information unit on AP Comp Sci on Khan
+
+
+**Thoughts:** I'll get there!
+
+**Link to work:**
+https://www.freecodecamp.org/learn/
+https://algorithm.codingdojo.com/challenge
 https://www.khanacademy.org/computing/ap-computer-science-principles/
-https://thegreatsync.com/posts/
 
 
 
