@@ -84,3 +84,25 @@ https://www.freecodecamp.org/learn/
 https://www.khanacademy.org/computing/ap-computer-science-principles/
 https://thegreatsync.com/posts/
 
+Day 8: October 6, 2022:
+
+Day 9: Friday, October 7, 2022:
+
+
+
+### Day 10: October 13 , 2022 
+
+**Today's Progress**: 
+FreeCodeCamp: Responsive Web Design.   Finished the marker thing.
+Spent a lot of time digging into the algorithm.codingdojo stuff.  Video, plus some pretty gnarly function asssignment stuff.  Not quite getting it yet?
+
+
+**Thoughts:** I'll get there!
+
+**Link to work:**
+https://www.freecodecamp.org/learn/
+https://www.khanacademy.org/computing/ap-computer-science-principles/
+https://thegreatsync.com/posts/
+
+
+
