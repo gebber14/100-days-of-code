@@ -119,3 +119,14 @@ https://www.khanacademy.org/computing/ap-computer-science-principles/
 
 
 
+### Day 12: Saturday, October 15, 2022 
+
+**Today's Progress**: 
+ Mostly did Khan Comp Sci today.
+
+
+**Thoughts:**. I enjoy this stuff, it is interesting!
+
+**Link to work:**
+https://www.khanacademy.org/computing/ap-computer-science-principles/
+
